@@ -1,0 +1,4 @@
+720
+SimpleGoal:simpletest,test,50,True
+EternalGoal:eternaltest,test,20
+ChecklistGoal:checklisttest,test,530,500,5,5
